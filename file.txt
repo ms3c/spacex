@@ -1,1 +1,11 @@
 "File" 
+https://nmb.ewallet-dev.com/api/v1/dashboard/sms-graph?startDate=2022-02-24&endDate=2022-03-26
+   "DB_URL": "jdbc:oracle:thin:@bmgmbz-scan:1521/bmgmbzi?useSSL=false",
+    "DB_USER": "SVC_BMGDB_NEW",
+    "DB_PASSWORD": "KxD897#er12RFD",
+    "CONNECTION_WAIT_TIMEOUT": "10",
+    "INACTIVE_CONNECTION_TIMEOUT": "60",
+    "INITIAL_POOL_SIZE": "30",
+    "MIN_POOL_SIZE": "30",
+    "MAX_POOL_SIZE": "30",
+    "VALIDATE_CONNECTION_ON_
